@@ -1,6 +1,6 @@
 # CM2290-Performance Kit Sample Developer documentation
 ## brief introduction
-This document mainly introduce show to deploy and compile the C865DK-super_resolution1.0 Sample.
+This document mainly introduce show to deploy and compile the CM2290 Performance Kit
 
 ## Environment configuration
 
